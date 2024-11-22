@@ -13,6 +13,13 @@ Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszupr
 - Open Source
 - Künstliche Intelligenz (AI)
 
+### 🧑‍💻 Aktuell lerne ich:
+- **JavaScript**
+- **TypeScript**
+- **Python**
+- **Angular**
+- **Django**
+
 ### 🚀 Aktuelle Projekte:
 - [Portfolio](https://yannick-vaterlaus.ch/#/)
 
