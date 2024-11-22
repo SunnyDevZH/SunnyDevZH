@@ -1,6 +1,6 @@
 # Willkommen auf meinem GitHub-Profil! 👋
 
-![Hintergrundbild](https://github.com/SunnyDevZH/SunnyDevZH/blob/main/Bild.webp)
+![Hintergrundbild](https://github.com/SunnyDevZH/SunnyDevZH/blob/main/bild.jpg)
 
 ## Über mich
 Hallo, ich bin **SunnyDevZH**, ein leidenschaftlicher Entwickler aus Zürich, Schweiz! 🌞
