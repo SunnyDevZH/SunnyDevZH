@@ -1,4 +1,4 @@
-<div style="background-image: url('https://github.com/SunnyDevZH/SunnyDevZH/blob/main/bild.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; justify-content: center; align-items: center; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
+<div style="background-image: url('https://github.com/SunnyDevZH/SunnyDevZH/blob/main/bild.jpg'); color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
   <h1>Willkommen auf meinem GitHub-Profil! 👋</h1>
 </div>
 
