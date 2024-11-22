@@ -18,4 +18,4 @@ Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszupr
 
 
 ### 📫 Kontakt:
-- [LinkedIn]([https://www.linkedin.com/in/dein-profil](https://www.linkedin.com/in/yannick-raffael-vaterlaus-11a3072b0/))
+- [LinkedIn](https://www.linkedin.com/in/yannick-raffael-vaterlaus-11a3072b0/)
