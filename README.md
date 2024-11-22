@@ -1,6 +1,6 @@
-<div style="background-image: url('https://github.com/SunnyDevZH/SunnyDevZH/blob/main/bild.jpg'); color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);">
-  <h1>Willkommen auf meinem GitHub-Profil! 👋</h1>
-</div>
+# Willkommen auf meinem GitHub-Profil! 👋
+
+![Hintergrundbild](https://github.com/SunnyDevZH/SunnyDevZH/blob/main/bild.jpg)
 
 ## Über mich
 Hallo, ich bin **SunnyDevZH**, ein leidenschaftlicher Entwickler aus Zürich, Schweiz! 🌞
