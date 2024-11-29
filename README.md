@@ -8,12 +8,20 @@ Hallo, ich bin **SunnyDevZH**, ein leidenschaftlicher Entwickler aus Zürich, Sc
 Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszuprobieren.
 
 ### 🌟 Meine Interessen:
-|                                |                        |
-|--------------------------------|------------------------|
-| Webentwicklung                 | ![GIF](https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif) |
-| Mobile Apps                    |                        |
-| Open Source                    |                        |
-| Künstliche Intelligenz (AI)    |                        |
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <ul>
+      <li>Webentwicklung</li>
+      <li>Mobile Apps</li>
+      <li>Open Source</li>
+      <li>Künstliche Intelligenz (AI)</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Rotierendes Objekt" width="200">
+  </div>
+</div>
 
 ### 🧑‍💻 Aktuell lerne ich:
 - **JavaScript**
