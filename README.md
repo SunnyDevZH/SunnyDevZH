@@ -9,18 +9,17 @@ Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszupr
 
 ### 🌟 Meine Interessen:
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <ul>
-      <li>Webentwicklung</li>
-      <li>Mobile Apps</li>
-      <li>Open Source</li>
-      <li>Künstliche Intelligenz (AI)</li>
-    </ul>
-  </div>
-  <div>
-    <img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Rotierendes Objekt" width="200">
-  </div>
+<div align="left" style="display: inline-block; width: 45%; vertical-align: top;">
+  <ul>
+    <li>Webentwicklung</li>
+    <li>Mobile Apps</li>
+    <li>Open Source</li>
+    <li>Künstliche Intelligenz (AI)</li>
+  </ul>
+</div>
+
+<div align="right" style="display: inline-block; width: 45%; vertical-align: top;">
+  <img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Rotierendes Objekt" width="200">
 </div>
 
 ### 🧑‍💻 Aktuell lerne ich:
