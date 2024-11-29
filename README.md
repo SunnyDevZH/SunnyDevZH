@@ -37,4 +37,5 @@ Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszupr
 </p>
 
 <!-- Das GIF rechts ausrichten -->
-<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Rotierendes Objekt" width="200" align="right">
+<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Rotierendes Objekt" width="200" align="right" style="margin-top: -100px;">
+
