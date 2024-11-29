@@ -7,6 +7,8 @@ Hallo, ich bin **SunnyDevZH**, ein leidenschaftlicher Entwickler aus Zürich, Sc
 
 Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszuprobieren.
 
+<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Rotierendes Objekt" width="300" align="right" style="margin-right: 100px;">
+
 ### 🌟 Meine Interessen:
 - Webentwicklung
 - Mobile Apps
@@ -26,16 +28,7 @@ Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszupr
 ### 📫 Kontakt:
 - [LinkedIn](https://www.linkedin.com/in/yannick-raffael-vaterlaus-11a3072b0/)
 
-<!-- Text und Bild nebeneinander mit dem Bild rechts -->
-<p align="justify">
-  <ul>
-    <li>Webentwicklung</li>
-    <li>Mobile Apps</li>
-    <li>Open Source</li>
-    <li>Künstliche Intelligenz (AI)</li>
-  </ul>
-</p>
 
-<!-- Das GIF rechts ausrichten -->
-<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Rotierendes Objekt" width="200" align="right" style="margin-top: -100px;">
+
+
 
