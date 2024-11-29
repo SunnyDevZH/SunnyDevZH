@@ -25,3 +25,5 @@ Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszupr
 
 ### 📫 Kontakt:
 - [LinkedIn](https://www.linkedin.com/in/yannick-raffael-vaterlaus-11a3072b0/)
+
+- ![Lagreca Busted Open GIF](https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif)
