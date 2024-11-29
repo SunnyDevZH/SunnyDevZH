@@ -1,13 +1,10 @@
 # Willkommen auf meinem GitHub-Profil! 👋
-
-![Hintergrundbild](https://github.com/SunnyDevZH/SunnyDevZH/blob/main/bild.jpg)
+<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/Nv2.gif" alt="Matrix" width="100%" align="right">
 
 ## Über mich
 Hallo, ich bin **SunnyDevZH**, ein leidenschaftlicher Entwickler aus Zürich, Schweiz! 🌞
 
-Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszuprobieren.
-
-<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/Nv2.gif" alt="Matrix" width="300" align="right">
+Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszuprobieren
 
 ### 🌟 Meine Interessen:
 - Webentwicklung
