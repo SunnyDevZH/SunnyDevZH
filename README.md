@@ -1,5 +1,5 @@
 # Willkommen auf meinem GitHub-Profil! 👋
-<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/Nv2.gif" alt="Matrix" width="200px" height="50px" align="right">
+<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/Nv2.gif" alt="Matrix" width="100%" height="200px" align="right">
 
 ## Über mich
 Hallo, ich bin **SunnyDevZH**, ein leidenschaftlicher Entwickler aus Zürich, Schweiz! 🌞
