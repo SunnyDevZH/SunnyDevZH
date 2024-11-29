@@ -7,7 +7,7 @@ Hallo, ich bin **SunnyDevZH**, ein leidenschaftlicher Entwickler aus Zürich, Sc
 
 Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszuprobieren.
 
-<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Rotierendes Objekt" width="300" align="right" style="margin-right: 100px;">
+<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Matrix" width="300">
 
 ### 🌟 Meine Interessen:
 - Webentwicklung
