@@ -7,7 +7,7 @@ Hallo, ich bin **SunnyDevZH**, ein leidenschaftlicher Entwickler aus Zürich, Sc
 
 Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszuprobieren
 
-<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/Nv2.gif" alt="Matrix" width="50%" height="200px" align="right">
+<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Matrix" width="300" align="right">
 
 ### 🌟 Meine Interessen:
 - Webentwicklung
@@ -22,13 +22,13 @@ Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszupr
 - **Angular**
 - **Django**
 
-<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Matrix" width="500" align="right">
-
 ### 🚀 Aktuelle Projekte:
 - [Portfolio](https://yannick-vaterlaus.ch/#/)
 
 ### 📫 Kontakt:
 - [LinkedIn](https://www.linkedin.com/in/yannick-raffael-vaterlaus-11a3072b0/)
+
+<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/Nv2.gif" alt="Matrix" width="100%" height="200px" align="right">
 
 
 
