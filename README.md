@@ -15,14 +15,14 @@ Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszupr
 - Open Source
 - Künstliche Intelligenz (AI)
 
-<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Matrix" width="300" align="right">
-
 ### 🧑‍💻 Aktuell lerne ich:
 - **JavaScript**
 - **TypeScript**
 - **Python**
 - **Angular**
 - **Django**
+
+<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Matrix" width="300" align="right">
 
 ### 🚀 Aktuelle Projekte:
 - [Portfolio](https://yannick-vaterlaus.ch/#/)
