@@ -26,16 +26,15 @@ Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszupr
 ### 📫 Kontakt:
 - [LinkedIn](https://www.linkedin.com/in/yannick-raffael-vaterlaus-11a3072b0/)
 
-<!-- Text und Bild nebeneinander -->
-<div style="overflow: hidden;">
-  <p style="float: left; width: 70%;"> 
-    <!-- Der Textbereich bleibt auf der linken Seite -->
-    <ul>
-      <li>Webentwicklung</li>
-      <li>Mobile Apps</li>
-      <li>Open Source</li>
-      <li>Künstliche Intelligenz (AI)</li>
-    </ul>
-  </p>
-  <img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Rotierendes Objekt" width="200" style="float: right; margin-left: 20px;">
-</div>
+<!-- Text und Bild nebeneinander mit dem Bild rechts -->
+<p align="justify">
+  <ul>
+    <li>Webentwicklung</li>
+    <li>Mobile Apps</li>
+    <li>Open Source</li>
+    <li>Künstliche Intelligenz (AI)</li>
+  </ul>
+</p>
+
+<!-- Das GIF rechts ausrichten -->
+<img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="Rotierendes Objekt" width="200" align="right">
