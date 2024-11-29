@@ -8,25 +8,12 @@ Hallo, ich bin **SunnyDevZH**, ein leidenschaftlicher Entwickler aus Zürich, Sc
 Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszuprobieren.
 
 ### 🌟 Meine Interessen:
-- Webentwicklung
-- Mobile Apps
-- Open Source
-- Künstliche Intelligenz (AI)
-
-<!-- GIF rechts positionieren -->
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <ul>
-            <li>Webentwicklung</li>
-            <li>Mobile Apps</li>
-            <li>Open Source</li>
-            <li>Künstliche Intelligenz (AI)</li>
-        </ul>
-    </div>
-    <div>
-        <img src="https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif" alt="GIF" style="max-width: 200px;">
-    </div>
-</div>
+|                                |                        |
+|--------------------------------|------------------------|
+| Webentwicklung                 | ![GIF](https://github.com/SunnyDevZH/SunnyDevZH/blob/main/1JKX.gif) |
+| Mobile Apps                    |                        |
+| Open Source                    |                        |
+| Künstliche Intelligenz (AI)    |                        |
 
 ### 🧑‍💻 Aktuell lerne ich:
 - **JavaScript**
@@ -40,4 +27,3 @@ Ich liebe es, an Open-Source-Projekten zu arbeiten und neue Technologien auszupr
 
 ### 📫 Kontakt:
 - [LinkedIn](https://www.linkedin.com/in/yannick-raffael-vaterlaus-11a3072b0/)
-
